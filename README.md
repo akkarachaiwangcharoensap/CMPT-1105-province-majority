@@ -1,4 +1,4 @@
-# CMPT-1105 Province Majority
+# CMPT 1105 | Province Majority
 
 ```python
 birthdate = int(input("Please enter your year of birth."))
